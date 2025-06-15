@@ -1,6 +1,6 @@
 Make a GIF from a text sequence.
 
-I made this for a GIF similar to Claude Code's animation.
+Made to create a GIF similar to Claude Code's animation.
 
 ![](./claude-code-centred.gif)
 
